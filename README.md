@@ -1,7 +1,7 @@
 # CodePen Clone: HTML, CSS, JS Live Editor
 
 ## 🚀 Project Description:
-This project is a dynamic and responsive **code editor** that mimics the functionality of other code editors available online. It allows users to edit, preview, and execute code snippets in multiple programming languages, including **JavaScript, Python, HTML, CSS, C, C++, Java, PHP**, and others. The application provides a seamless experience where users can switch between languages and view live previews for **HTML, CSS, and JS** directly in the browser.
+This project is a dynamic and responsive **code editor**. It allows users to edit, preview, and execute code snippets in multiple programming languages, including **JavaScript, Python, HTML, CSS, C, C++, Java, PHP**, and others. The application provides a seamless experience where users can switch between languages and view live previews for **HTML, CSS, and JS** directly in the browser.
 
 The editor supports backend execution for languages like **Python**, **Java**, and **PHP**, and offers a live preview for web languages (HTML/CSS/JS) similar to **CodePen**. This tool is ideal for users looking for an integrated development environment that combines frontend and backend coding features.
 
